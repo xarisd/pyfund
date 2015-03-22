@@ -1,0 +1,8 @@
+## How to use a virtual environment
+
+In Python 3 there is ``pyvenv``
+
+$ pyvenv venv3
+
+$ source venv3/bin/activate
+
