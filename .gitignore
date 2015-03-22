@@ -3,4 +3,6 @@
 __pycache__
 recaman.txt
 wasteland.txt
-venv3
+venv*
+dist*
+build*
